@@ -1,0 +1,38 @@
+---
+title: "Samantha Erin Sophia Kreling"
+image: "1.webp"
+links:
+  - label: Twitter
+    url: "https://twitter.com/SamanthaKreling"
+  - label: GitHub
+    url: "https://github.com/skreling"
+  - label: Email
+    url: "mailto:skreling@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**Univesrity of Washington Seattle** | Seattle, WA
+
+Ph.D. in Environmental & Forest Sciences | September 2020 - 
+
+**The University of California, Berkeley** | Berkeley, CA
+
+B.S. in Molecular Environmental Biology | August 2016 - May 2019
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
