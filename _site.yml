@@ -1,0 +1,13 @@
+name: "Samantha Kreling"
+navbar:
+  title: "Samantha Kreling"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Urban Wildlife Coloration"
+      href: urbanwildlifecoloration.html
+output:
+  html_document:
+    theme: flatly

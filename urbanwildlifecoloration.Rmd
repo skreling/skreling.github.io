@@ -1,0 +1,141 @@
+---
+title: "Urban Wildlife Coloration"
+---
+
+## Background 
+
+Highly urbanized regions are characterized by increased human presence and impervious surfaces, as well as lack of green space, high exposure to pollutants, high levels of artificial light and ambient noise, and increased temperatures (Grimm et al. 2008, MacDonnell et al. 2009, Imhoff et al. 2010, Niemelä 2011, Szulkin et al. 2020). Additionally, urban areas typically have elevated levels of vehicle traffic and physical landscape structures that may alter gene flow or mortality rates within and among urban wildlife populations (Johnson and Munshi-South 2017, Winchell et al. 2016, Miles et al. 2019, Cosentino and Gibbs 2021). All of these factors have recently been found to drive some phenotypic or genotypic response in urban wildlife populations (Oke et al. 1973, Noël et al. 2006, Giraudeau et al. 2014, Serieys et al. 2015, Campbell-Staton et al. 2020, Adducci II et al. 2020). 
+
+This paper builds on the literature on pelage coloration evolution in both urban and nonurban systems to develop new hypotheses for how pelage coloration may change in urban systems. I explore the theoretical release from evolutionary constraints of novel pelage coloration phenotypes as an example of the potential for neutral and/or adaptive traits to persist in human-dominated landscapes. As a result of increased exposure to toxins, pollutants, and chemical mutagens, in conjunction with strong genetic drift and/or found effects, I conceptualize a potential increase in heritable abnormal pelage coloration. Additionally, I hypothesize that through the human shield effect and subsequent decreased predation pressure, changes in pelage coloration that would be negatively adaptive in non-urban areas may be neutral or beneficial in urban areas, allowing for alternative colorations to persist or even proliferate. Finally, there is potential for alternative color morphs to be selected for if they offer better thermoregulatory power to combat increased heat load in urban areas, improve detoxification ability to mitigate increased toxin loads, or provide better visibility by humans to avoid direct human-mediated mortality 
+
+***
+
+## Wildlife Coloration
+
+The mechanism for deposition of pigment in bird feathers and mammalian fur is nearly identical (Lubnow 1963, van Grouw 2013). Coloration in both taxa is predominantly due to the pigments produced in cells known as melanocytes (Fox and Ververs 1960). These melanocytes produce two types of melanin: Eumelanin is responsible for black, gray, and dark brown colors, and phaeomelanin is responsible for red and light brown colors (Lubnow 1963, Hoekstra 2006). Multiple genes regulate the production of these pigments (Lamoreux et al. 2010). Abnormalities in coloration that affect melanism can occur from single point mutations, often in the melanocortin 1 receptor (MC1R) or agouti (ASIP) genes (Lamoreux et al. 2010), and there are often multiple mutagenic pathways that may be responsible for the same or similar color aberrations (van Grouw and de Jong 2009, van Grouw 2017).
+
+![ Conceptual figure to illustrate potential drivers and mechanisms influencing the theoretical release of novel coloration phenotypes in urban compared to rural areas. A) Predators remove conspicuous individuals prior to breeding. B) In urban areas, human presence directly or indirectly acts as a shield for prey and smaller carnivore species from large carnivores, thus reducing predation selection pressure. Additionally, food supplementation for urban carnivores with anthropogenic resources may reduce predation risk. Combined removal of predation selection pressure releases novel phenotypes to persist in urban areas. C) Where predation risk still exists, novel colorations have a higher probability of finding backgrounds that match their coloration due to a proliferation and wider variety of colors and textures across urban landscapes. D). Low nutrition foods may provide a non-heritable cause for increase in novel coloration in birds and mammals. In particular, tyrosine deficiencies may present similar, but non-heritable, patterns to leucism. E) Increased exposure to toxins and pollutants may increase mutation rates, giving rise to a potential increase in frequency of novel pelage phenotypes. F) Increased temperatures may select for different pelage colorations that assist in thermoregulation. However, because of the complexity of thermoregulation in endotherms, the direction for this selection is difficult to predict. G) Increased human visibility may result in direct reductions in mortality for conspicuous individuals or through increased interest in which conspicuous individuals are favored by human viewers as ‘novel’ and ‘rare’ sights.](Urbanization.jpg)
+
+***
+
+## Hypotheses
+
+1. **Increased Mutation Load**: Increased exposure to air pollution and other toxic substances found at higher densities in urban areas (Lawson et al. 2011, Cakmak et al. 2012, Da Silveira Fleck et al. 2014) may induce germline heritable mutations that, including those causing altered coloration (Yauk and Quinn 1996, Somers et al. 2002). 
+
+2. **Founder Effect**: Limited geneflow into urban populations, in combination with genetic drift, may cause a higher frequency of traits found in the founding population. If founders had abnormal pelage coloration, these traits may accumulate in the population (Boileau et al. 1992, Crispo et al. 2005).
+
+3. **Low-nutrition Diet**: Diets for wildlife in urban areas are typically composed of low-nutrition, high carbohydrate foods. This can lead to a lack of sufficient quantities of amino acids such as tyrosine which are necessary to produce melanin, causing a lightening or whitening of pelage (non-heritable ;Isaksson and Andersson 2007, Murray et al. 2015 van Grouw 2013).
+
+4. **Urban Graying**: High stress environments such as that in urban areas causes increases in oxidative stress, leading to graying of pelage (non-heritable; Møller and Mousseau 2001, Izquierdo et al. 2018). 
+
+5. **Human Shield**: Humans have for the most part eradicated large predators from urban areas. While there are often higher densities of mesopredators in urban than nonurban areas, anthropogenic food supplementation results in lowered predation rates, releasing camouflage constraints in both predators and prey and potentially allowing an increase of conspicuously colored individuals (Belk and Smith 1996, Caro 2005, Fischer et al. 2012, Eötvös et al. 2018).
+
+6. **Background-matching Heterogeneity**: In addition to the backgrounds for wildlife to match in wildland areas, urban areas have a variety of anthropogenically-created backgrounds such as bricks and concrete. In cities with higher predation pressure, localized populations of wildlife with altered coloration that blend into selected backgrounds may be selected for (Kettlewell 1955).
+
+![In addition to the background patterns and colorations found in natural habitat fragments in urban areas, urban areas offer a proliferation of human-created backgrounds that prey species may evolve to match to. This conceptual figure compares the typical coloration of black rats (lower rats) to an alternative color morph (upper rats) that matches three common background colors and patterns in urban areas including bricks, asphalt, and concrete.](Untitled.png)
+
+7. **Human Visibility**: Increased visibility of conspicuous individuals conveys advantage in the form of reduced mortality (Cosentino and Gibbs 2022).
+
+8. **Thermoregulation**: Urban areas are significantly warmer than rural areas. If the additional heat load is large enough to produce thermal stress on organisms, then color morphs that offer thermoregulatory benefits will be selected for (Campbell-Staton et al. 2020, Cosentino and Gibbs 2022).
+
+9. **Melanisitic Detoxification**: Melanin binds certain heavy metal ions rendering them inert and storing them in structures such as fur or feathers, thus detoxifying the body. In urban areas where toxin load is higher and may have significant fitness consequences, individuals that are better at detoxification may have a selective advantage (Obukhova 2007, Chatelain et al. 2014, 2016).
+
+10. **Human Interest**: Preferential treatment to conspicuous individuals through physical protection and nutritional rewards may increase survival of conspicuous color morphs (Wisconsin Department of Natural Resources 1940, Iowa General Assembly 1988, Illinois General Assembly 2021).
+
+11. **Hybridization**: Mating between wild animals and closely related domestic species may result in wildlife of abnormal coloration that may mimic coat colorations produced by leucism or melanism (Caragiulo et al. 2022). 
+
+12. **Domestication Syndrome**: The ‘domestication suite’ is a standard set of phenotypic traits that tend to be altered during the process of domestication. One of these traits is pelage coloration. Urban areas often select for bold wildlife individuals, and unintentional rewarding to these individuals may produce similar selection outcomes as intentional domestication (Trut 1999, Wilkins et al. 2014, Caspi et al. 2022). 
+
+***
+
+## Resources
+
+Adducci II, A., Jasperse, J., Riley, S., Brown, J., Honeycutt, R., Monzón, J. 2020. Urban coyotes are genetically distinct from coyotes in natural habitats. Journal of Urban Ecology, 6: 1-	11. 
+
+Belk, M. C., and M. H. Smith. 1996. Pelage coloration in oldfield mice (Peromyscus polionotus): Antipredator adaptation? Journal of Mammalogy, 77: 882-890.
+
+Boileau, M. G., Herbert, P. D. N., Schwartz, S. S. 1992. Non-equilibrium gene frequency 	divergence: persistent founder effects in natural populations. Journal of Evolutionary 	Biology, 5: 25-39. 
+
+Cakmak, S., Mahmud, M., Grgicak-Mannion, A., Dales, R. E. 2012. The influence of neighborhood traffic density on the respiratory health of elementary schoolchildren. Environment International, 39: 128-132.
+
+Caragiulo, A., Gaughran, S. J., Duncan, N., Nagy, C., Weckel, M., vonHoldt, B. M. 2022. Coyotes in New York City carry variable genomic dog ancestry and influence their interactions with humans. Genes. 
+
+Caro, T. 2005. The adaptive significance of coloration in mammals. BioScience, 55: 125-136.
+
+Caspi, T., Johnson, J. R., Lambert, M. R., Schell, C. J., Sih, A. 2022. Behavioral plasticity can facilitate evolution in urban environments. Trends in Ecology and Evolution. 
+
+Chatelain, M., Gasparini, J., Jacquin, L., Frantz, A. 2014. The adaptive function of melanin-based plumage coloration to trace metals. Biology Letters, 10: 20140164. 
+
+Chatelain, M., Gasparini, J., Frantz, A. 2016. Trace metals, melanin-based pigmentation and their interaction influence immune parameters in feral pigeons (Columbia livia). Ecotoxicology, 25: 521-529. 
+
+Cosentino, B. J., and J. P. Gibbs. 2022. Parallel evolution of urban-rural clines in melanism in a	widespread mammal. Scientific Reports, 12: 1752.  
+
+Crispo, E., Bentzen, P., Reznick, D. N., Kinnison, M. T., Hendry, A. P. 2005. The relative 	influence of natural selection and geography on gene flow in guppies. Molecular 	Ecology, 15: 49-62. 
+
+Da Silveira Felck, A., Vieira, M., Amantéa, S. L., Rhoden, C. R. 2914. A comparison of the human buccal cell assay and the pollen abortion assay in assessing genotoxicity in an urban-rural gradient. International Journal of Environmental Research and Public Health, 	11: 8825-8838.
+
+Eötvös, C. B., Magura, T., Lövei, G. L. 2018. A meta-analysis indicates reduced predation	pressure with increasing urbanization. Landscape and Urban Planning, 180: 54-59.
+
+Fischer, J. D., Cleeton, S. H., Lyons, T. P., Miller, J. R. 2012. Urbanization and the predation paradox: the role of trophic dynamics in structuring vertebrate communities. BioScience, 62: 809-818.
+
+Fox, H. M., and G. Vevers. 1960. The Nature of Animal Colors. Sidgwick and Jackson, London. 
+
+Giraudeau, M., Nolan, P. M., Black, C. E., Earl, S. R., Hasegawa, M., McGraw, K. J. 2014. Frontiers in Zoology, 11: 1-8.
+
+Grimm, N. B., Faeth, S. H., Golubiewski, N. E., Redman, C. L., Wu, J., Bai, X., Briggs, J. M. 	2008. Global change and the ecology of cities. Science, 319: 756-760. 
+
+van Grouw, H. 2013. What color is that bird? The cause and recognition of common colour 	aberrations in birds. British Birds, 106: 17-29. 
+
+van Grouw, H. 2017. The dark side of birds: melanism – facts and fiction. Bulletin of the British 	Ornithologists' Club 137: 12-36.
+
+Hoekstra, H. E. 2006. Genetics, development and evolution of adaptive pigmentation in	vertebrates. Heredity, 97: 222-234. 
+
+Imhoff, M. L., Zhang, P., Wolfe, R. E., Bounoua, L. 2010. Remote sensing of the urban heat island effect across biomes in the continental USA. Remote Sensing of the Environment, 114: 504-513. 
+
+Iowa General Assembly. 1988. 481A.124 Taking predominantly white deer of the whitetail species prohibited. Laws of the Seventy-Second General Assembly, Chapter 1184. 
+
+Isaksson, C., and S. Andersson. 2007. Carotenoid diet and nestling provisioning in urban and rural great tits Parus major. Journal of Avian Biology, 38: 564-572.
+
+Izquierdo, L., Thomson, R. L., Aguirre, J. I., Díez-Fernández, A., Faivre, B., Figuerola, J., Ibáñez-Álamo, J. D. 2018. Factors associated with leucism in the common blackbird Turdus merula. Journal of Avian Biology, 49: e01778.
+
+Johnson, M. T. J., and J. Munshi-South. 2017. Evolution of life in urban environments. Science, 358, eaam8327.
+
+Kettlewell, H. B. D. 1955. Selection experiments on industrial melanism in the Lepidoptera. Heredity, 9: 323-342. 
+
+Lamoreux, M. L., Delmas, V., Larue, L., Bennett, D. 2010. The colors of mice, a model genetic network. Wiley-Blackwell, Chichester. 
+
+Lawson, S. J., Galbally, I. E., Powell, J. C., Keywood, M. D., Molloy, S. B., Cheng, M., Selleck, P. W. 2011. The effect of proximity to major roads on indoor air quality in typical Australian dwellings. Atmospheric Environment, 45: 2252-2259.
+
+Lubnow, E. 1963. Melanine bei vögeln und säugetieren. Journal für Ornithologie 104: 69-81.
+
+McDonnel, M. J., Pickett, S. T. A., Groffman, P., Bohlen, P., Pouyat, R. V., Zipperer, W. C., Parmelee, R. W., Carreiro, M. M., Medley, K. 1997. Ecosystem processes along an 	urban-rural gradient. Urban Ecosystems, 1: 21-36.
+
+Miles, L. S., Rivkin, L. R., Johnson, M. T. J., Munshi-South, J., Verrelli, B. C. 2019. Gene flow and genetic drift in urban environments. Molecular Ecology, 28: 4138-4151.
+
+Møller A. P. and T. A. Mousseau. 2001. Albinism and phenotype of barn swallows (Hirundo rustica) from Chernobyl. Evolution, 55: 2097-2104. 
+
+Murray, M., Cembrowski, A., Latham, A. D., Lukasik, V. M., Pruss, S., St. Clair, C. C. 2015. 	Greater consumption of protein-poor anthropogenic food by urban relative to rural 	coyotes increases diet breadth and potential for human-wildlife conflict. Ecography, 38: 	1235-1242. 
+
+Niemelä, J. 2011. Urban ecology: patterns, processes, and applications. Oxford, UK: Oxford University Press. 
+
+Noël, S., Ouellet, M., Galois, P. 2006. Impact of urban fragmentation on the genetic structure of the eastern red-backed salamander. Conservation Genetics, 8: 599-606.
+
+Obukhova, N. Y. 2007. Polymorphism and phene geography of the blue rock pigeon in Europe. General Genetics, 43: 492-501. 
+
+Oke, T. R. 1973. City size and the urban heat island. Atmospheric Environment, 7: 769-779.
+
+Serieys, L. E. K., Lea, A. J., Epeldegui, M., Armenta, T. C., Moriarty, J., VandeWoude, S., Carver, S., Foley, J., Wayne, R. K., Riley, S. P. D., et al. 2018. Urbanization and anticoagulant poisons promote immune dysfunction in bobcats. Proceedings of the Royal Society B, 285: 20172533.
+
+Somers, C. M., Yauk, C. L., White, P. A., Parfett, C. L. J., Quinn, J. S. 2002. Air pollution induces heritable DNA mutations. Proceedings of the National Academy of Science, 99: 15904-15907.
+
+Szulkin, M., Garroway, C. J., Corsini, M., Kotarba, A. Z., Dominoni, D. 2020. How to quantify urbanization when testing for urban evolution? In Urban Evolutionary Biology, ed. M. Szulkin, J. Munshi-South, A. Charmantier, pp 13-35. New York: Oxford University 	Press. 
+
+Trut, L. N. 1999. Early canid domestication: the farm-fox experiment: foxes bred for tamability in a 40-year experiment exhibit remarkable transformations that suggest an interplay between behavioral genetics and development. American Journal of Science, 87: 160-169. 
+
+Wilkins, A. S., Wrangham, R. W., Fitch, W. T. 2014. The ‘domestication syndrome’ in mammals: a unified explanation based on neural crest cell behavior and genetics. Genetics, 197: 206-226. 
+
+Winchell, K. M., Reynolds, R. G., Prado-Irwin, S. R., Puente-Rolón, A. R., Revell, L J. 2016. Phenotypic shifts in urban areas in the tropical lizard Anolis cristatellus. Evolution, 70: 1009-1022. 
+
+Wisconsin Department of Natural Resources. 1940. NR 10.02 Protected Wild Animals.
+
+Yauk, C. L., and J. S. Quinn. 1996. Multilocus DNA fingerprinting reveals high rate of genetic mutation in herring gulls nesting in an industrialized urban site. Proceedings of the National Academy of Sciences, 93: 12137-12141.
